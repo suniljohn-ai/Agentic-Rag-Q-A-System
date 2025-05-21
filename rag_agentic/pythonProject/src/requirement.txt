@@ -1,0 +1,11 @@
+langchain
+langchain-community
+openai
+pinecone-client
+chromadb
+streamlit
+tiktoken
+transformers
+huggingface_hub
+faiss-cpu
+python-dotenv
