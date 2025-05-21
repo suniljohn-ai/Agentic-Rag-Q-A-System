@@ -26,7 +26,7 @@ The system can answer queries from user-uploaded documents (PDFs, websites) usin
 ## 📁 Folder Structure
 
 ```
-llm-agentic-rag-qa/
+pythonProject/
 ├── app.py                # Streamlit frontend
 ├── file.py               # Core logic for QA and Agent
 ├── data/                 # Folder to upload PDFs
