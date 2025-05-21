@@ -3,7 +3,7 @@ This is the project , about RAG system followed langchain agent framework which 
 
 # 📚 Custom LLM-Based Question Answering System for Indian Budget 2024-2025 using RAG & Agentic AI
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/llm-agentic-rag-qa?style=social)](https://github.com/your-username/llm-agentic-rag-qa/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/suniljohn-ai/Agentic-Rag-Q-A-System?style=social)](https://github.com/suniljohn-ai/Agentic-Rag-Q-A-System/stargazers)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Demo-green)](https://llm-agentic-rag-qa.streamlit.app)
 
 **Tech Stack:** LangChain, Pinecone, Hugging Face, ChromaDB, Streamlit, OpenAI API, Python
@@ -89,14 +89,14 @@ PINECONE_API_KEY=your-pinecone-api-key
 PINECONE_ENV=your-pinecone-environment
 ```
 
-> 🔒 Make sure `.env` is in `.gitignore` to keep your keys private.
+> 🔒 Make sure `.env` is in `.gitignore` to keep your keys private if you use .env file
 
 ---
 
 ### Step 5: Add Your Data
 
 * Upload PDF files to the `./data/` folder.
-* Optionally, update the `WebBaseLoader` URL in `agent_qa.py` for website ingestion.
+* Optionally, update the `WebBaseLoader` URL in `file.py` for website ingestion.
 
 ---
 
