@@ -163,7 +163,7 @@ llm = ChatOpenAI(temperature=0)
 ## 👨‍💻 Author
 
 Sunil Kumar Nallabothula
-Data Scientis | AI Engineer | NLP & GenAI Enthusiast
+Data Scientist | AI Engineer | NLP & GenAI Enthusiast
 📧 [email](mailto:nsunilkumar.ai@gmail.com) • 🌐 [LinkedIn](https://www.linkedin.com/in/sunil-kumar-369-/ ) | 
 [GitHub](https://github.com/suniljohn-ai)
 
